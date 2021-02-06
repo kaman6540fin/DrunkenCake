@@ -78,12 +78,14 @@ button:focus {
   letter-spacing: 1px;
   cursor: pointer;
   transition: 0.5s;
+  border-radius: 0px;
 }
 
 #campaignSearch:focus {
   outline: none;
   color: #250404;
-  box-shadow: inset 0 0 10px darkgray
+  box-shadow: inset 0 0 10px darkgray;
+  border-radius: 0px;
 
   
 }
